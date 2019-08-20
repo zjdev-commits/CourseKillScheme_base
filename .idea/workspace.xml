@@ -8,12 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0c71186d-7e41-48bb-b0ef-091cdb282497" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CourseDao.xml" afterPath="$PROJECT_DIR$/target/classes/mappers/CourseDao.xml" />
-      <change beforePath="$PROJECT_DIR$/target/coursekill.war" afterPath="$PROJECT_DIR$/target/coursekill.war" />
-      <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/cn/zjdev/coursekill/service/Impl/CourseServiceImpl.class" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/cn/zjdev/coursekill/service/Impl/CourseServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/jdbc.properties" />
-      <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/mappers/CourseDao.xml" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/mappers/CourseDao.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,8 +105,8 @@
       <file leaf-file-name="CourseDao.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="50">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding>
                 <marker date="1566305950194" expanded="true" signature="282:353" ph="UPDATE Course... " />
                 <marker date="1566305950194" expanded="true" signature="443:512" ph="DELETE FROM Course_choose... " />
@@ -298,7 +292,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -630,7 +624,7 @@
       <workItem from="1566221199918" duration="2523000" />
       <workItem from="1566224869325" duration="4882000" />
       <workItem from="1566297335301" duration="1016000" />
-      <workItem from="1566304713678" duration="8961000" />
+      <workItem from="1566304713678" duration="9566000" />
     </task>
     <task id="LOCAL-00001" summary="SSM抢课系统">
       <created>1566316080311</created>
@@ -639,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566316080311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SSM抢课系统">
+      <created>1566316105864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566316105864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -675,7 +676,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112363000" />
+    <option name="totallyTimeSpent" value="112968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -988,8 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="50">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
           <folding>
             <marker date="1566305950194" expanded="true" signature="282:353" ph="UPDATE Course... " />
             <marker date="1566305950194" expanded="true" signature="443:512" ph="DELETE FROM Course_choose... " />
