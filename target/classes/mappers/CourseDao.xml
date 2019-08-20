@@ -6,20 +6,20 @@
 <mapper namespace="cn.zjdev.coursekill.dao.CourseDao">
 
     <select id="reduceChooseNum" parameterType="int">
-        UPDATE Course SET classChooseNum = classChooseNum-1 WHERE classId=#{id}
+        UPDATE course SET classChooseNum = classChooseNum-1 WHERE classId=#{id}
     </select>
     <delete id="deleteCourseChoose" parameterType="Course_choose">
-        DELETE FROM Course_choose WHERE stuId=#{stuId} AND classId=#{classId}
+        DELETE FROM course_choose WHERE stuId=#{stuId} AND classId=#{classId}
     </delete>
 
     <update id="increaseChooseNum" parameterType="int">
-        UPDATE Course
+        UPDATE course
         SET classChooseNum = classChooseNum+1
         WHERE classId=#{id} and classNum >=classChooseNum+1
     </update>
     <!--主键冲突，返回0-->
     <insert  id="insertCourseChoose" >
-        INSERT ignore INTO Course_choose (stuId,classId)
+        INSERT ignore INTO course_choose (stuId,classId)
         VALUES (#{stuId},#{classId})
     </insert>
 
