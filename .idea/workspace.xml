@@ -6,26 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c71186d-7e41-48bb-b0ef-091cdb282497" name="Default" comment="SSM抢课系统">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="0c71186d-7e41-48bb-b0ef-091cdb282497" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/coursekill.iml" afterPath="$PROJECT_DIR$/coursekill.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml" afterPath="$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/zjdev/coursekill/dao/CourseDaoTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/zjdev/coursekill/service/Impl/CourseServiceImplTest.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
       <change beforePath="$PROJECT_DIR$/target/classes/mappers/CourseDao.xml" afterPath="$PROJECT_DIR$/target/classes/mappers/CourseDao.xml" />
       <change beforePath="$PROJECT_DIR$/target/coursekill.war" afterPath="$PROJECT_DIR$/target/coursekill.war" />
-      <change beforePath="$PROJECT_DIR$/target/coursekill/META-INF/MANIFEST.MF" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/cn/zjdev/coursekill/service/Impl/CourseServiceImpl.class" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/cn/zjdev/coursekill/service/Impl/CourseServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/jdbc.properties" />
       <change beforePath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/mappers/CourseDao.xml" afterPath="$PROJECT_DIR$/target/coursekill/WEB-INF/classes/mappers/CourseDao.xml" />
-      <change beforePath="$PROJECT_DIR$/target/coursekiller/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/zjdev/coursekill/dao/CourseDaoTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/zjdev/coursekill/service/Impl/CourseServiceImplTest.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -123,8 +111,8 @@
       <file leaf-file-name="CourseDao.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding>
                 <marker date="1566305950194" expanded="true" signature="282:353" ph="UPDATE Course... " />
                 <marker date="1566305950194" expanded="true" signature="443:512" ph="DELETE FROM Course_choose... " />
@@ -642,8 +630,16 @@
       <workItem from="1566221199918" duration="2523000" />
       <workItem from="1566224869325" duration="4882000" />
       <workItem from="1566297335301" duration="1016000" />
-      <workItem from="1566304713678" duration="8921000" />
+      <workItem from="1566304713678" duration="8961000" />
     </task>
+    <task id="LOCAL-00001" summary="SSM抢课系统">
+      <created>1566316080311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566316080311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -679,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112323000" />
+    <option name="totallyTimeSpent" value="112363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -992,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resourses/mappers/CourseDao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="175">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
             <marker date="1566305950194" expanded="true" signature="282:353" ph="UPDATE Course... " />
             <marker date="1566305950194" expanded="true" signature="443:512" ph="DELETE FROM Course_choose... " />
